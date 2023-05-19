@@ -1,0 +1,15 @@
+web/node_modules/
+web/src/笔记/
+web/.env*
+
+doc/_book
+doc/node_modules
+
+server/config/
+server/记录
+server/log/
+web/dist*
+readme.md
+设计/
+**/config.*
+**/**/config.*
